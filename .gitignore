@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.pyc
+
+# Node / Web
+node_modules/
+dist/
+.vite/
+.env
+.DS_Store
